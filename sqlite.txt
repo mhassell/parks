@@ -1,0 +1,12 @@
+https://www.osradar.com/install-sqlite-ubuntu-20-04/
+
+https://datacarpentry.org/python-ecology-lesson/09-working-with-sql/index.html
+
+https://sqlite.org/datatype3.html
+
+https://www.sqlitetutorial.net/sqlite-python/create-tables/
+
+How should data be stored?
+
+ID (INTEGER) (PKEY) : NAME (TEXT) : LATITUDE (DOUBLE) : LONGITUDE (DOUBLE) : STATE (CHAR2) :
+COMMENTS (VARCHAR500) : VISITED (BOOL)
